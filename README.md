@@ -1,6 +1,6 @@
 # Counter app made with React and Bootstrap
 
-This is just a tiny React project, where I create a counter app with React and Bootstrap.
+This is just a tiny React project, where I create a shopping cart-looking counter app with React and Bootstrap.
 
 ## How to run it?
 
